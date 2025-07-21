@@ -1,4 +1,3 @@
-```python3 []
 class Solution:
     def threeConsecutiveOdds(self, arr: List[int]) -> bool:
         consCount = 0
@@ -10,5 +9,3 @@ class Solution:
             else:
                     consCount = 0
         return False
-
-```
